@@ -1,0 +1,14 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Project-specific
+xgboost
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
